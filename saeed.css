@@ -68,3 +68,7 @@ ul li:first-child{
   background:#c1946a;
   color:#405d27;
 }
+
+.destination:hover h2 {
+transform: rotate(0deg);
+}
